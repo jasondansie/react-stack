@@ -1,0 +1,15 @@
+.buttons{
+  margin: 5vh;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.input{
+  margin: 5vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
